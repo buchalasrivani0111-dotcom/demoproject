@@ -1,1 +1,4 @@
-echo "welcome to the demp project"
+
+echo "wecome to my project"
+
+echo "this is my first project"
